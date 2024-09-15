@@ -9,7 +9,7 @@
   "routes": [
     {
       "src": "/api/(.*)",
-      "dest": "ai-experiments/app1.py"
+      "dest": "ai-experiments/app.py"
     }
   ]
 }
