@@ -55,3 +55,9 @@ fastapi
 uvicorn
 crewai_tools
 langchain_cohere
+fastapi
+uvicorn
+pydantic
+crewai
+crewai[tools]
+selenium
